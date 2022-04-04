@@ -8,7 +8,7 @@ import pytest
 
 from socketio import asyncio_client
 from socketio import asyncio_namespace
-from engineio import exceptions as engineio_exceptions
+from engineio_yas import exceptions as engineio_exceptions
 from socketio import exceptions
 from socketio import packet
 

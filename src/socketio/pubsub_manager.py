@@ -1,7 +1,7 @@
 from functools import partial
 import uuid
 
-from engineio import json
+from engineio_yas import json
 import pickle
 
 from .base_manager import BaseManager

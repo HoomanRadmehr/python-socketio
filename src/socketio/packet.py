@@ -1,5 +1,5 @@
 import functools
-from engineio import json as _json
+from engineio_yas import json as _json
 
 (CONNECT, DISCONNECT, EVENT, ACK, CONNECT_ERROR, BINARY_EVENT, BINARY_ACK) = \
     (0, 1, 2, 3, 4, 5, 6)
