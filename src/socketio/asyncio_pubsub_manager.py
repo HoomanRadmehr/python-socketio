@@ -2,7 +2,7 @@ import asyncio
 from functools import partial
 import uuid
 
-from engineio_yas import json
+from engineio import json
 import pickle
 
 from .asyncio_manager import AsyncManager
