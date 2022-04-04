@@ -2,7 +2,7 @@ import logging
 import unittest
 from unittest import mock
 
-from engineio import json
+from engineio_yas import json
 import pytest
 
 from socketio import exceptions
